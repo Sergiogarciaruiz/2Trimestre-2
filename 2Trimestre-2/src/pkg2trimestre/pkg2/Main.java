@@ -66,7 +66,6 @@ public class Main {
                     break;
                 default:
                     System.out.println("Introduce un día valido");
-
             }
             if (fm > 0) {
                 System.out.println("Quedan: " + fm + " minutos para el fin de semana");
